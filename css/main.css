@@ -1,5 +1,5 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
   line-height: 1.5;
   box-sizing: border-box;
 }
@@ -29,6 +29,7 @@ h1 {
   border-left: 1px solid #a63f38;
   border-right: 1px solid #a63f38;
 }
+
 img {
   width: 40px;
 }

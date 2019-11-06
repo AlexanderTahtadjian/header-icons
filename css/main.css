@@ -19,6 +19,10 @@ h1 {
   margin: 0;
 }
 
+li {
+  width: 33.333%;
+}
+
 .grain-logo {
   display: flex;
   flex-direction: row;
@@ -33,6 +37,7 @@ h1 {
 
 img {
   width: 40px;
+  height: auto;
 }
 
 header {
@@ -40,6 +45,7 @@ header {
 }
 
 nav ul {
+  display: flex;
   list-style-type: none;
   font-weight: normal;
   font-size: 1.125rem;

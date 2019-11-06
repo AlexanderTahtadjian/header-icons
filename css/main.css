@@ -1,5 +1,5 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
   line-height: 1.5;
   box-sizing: border-box;
 }
@@ -23,6 +23,7 @@ h1 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: stretch;
 }
 
 .cereal {

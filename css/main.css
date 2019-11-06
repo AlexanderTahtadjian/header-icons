@@ -25,6 +25,10 @@ h1 {
   justify-content: space-between;
 }
 
+.cereal {
+  border-left: 1px solid #a63f38;
+  border-right: 1px solid #a63f38;
+}
 img {
   width: 40px;
 }
